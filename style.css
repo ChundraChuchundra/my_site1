@@ -1,0 +1,67 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Montserrat:wght@500;800;900&display=swap');
+
+.Notebook {
+    border: 1px solid #999999;
+    border-radius: 3px
+}
+
+div {
+    display: block;
+    width: 440px;
+}
+
+h2 {
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.price {
+    color: #B12704;
+    margin-bottom: 20px;
+    padding-left: 15px;
+}
+
+body {
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+.by {
+    padding-left: 15px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.haracter {
+    background: lightgrey;
+    width: 350px;
+    padding-left: 30px;
+    margin-left: 30px;
+    height: 110px;
+    padding-top: 25px;
+}
+
+img {
+    padding-left: 16px;
+    padding-top: 17px;
+}
+
+a {
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.back {
+    color: purple
+}
+
+.pop {
+    font-size: 10px;
+}
